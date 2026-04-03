@@ -4,7 +4,7 @@ Predicting how many alarms remain today for a specific city in Israel, given ala
 
 ## Data
 
-- Source: Israeli Home Front Command alarm data (`data/alarms.csv`)
+- Source: Israeli Home Front Command alarm data from [yuval-harpaz/alarms](https://github.com/yuval-harpaz/alarms)
 - Filtered to Iran-origin attacks from Feb 28, 2026 onwards
 - ~12 attack days, ~750–1400 cities per day, median 2 alarms per city per day
 
